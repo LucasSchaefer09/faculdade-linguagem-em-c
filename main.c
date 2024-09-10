@@ -15,7 +15,7 @@ int main() {
     media = (num1 + num2 + num3) / 3;
 
     // Exibe a média calculada
-    printf("A media dos tres números e: %.2f\n", media);
+    printf("A media dos tres numeros e: %.2f\n", media);
 
     return 0;
 }
